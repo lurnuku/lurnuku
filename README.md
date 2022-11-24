@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lurnuku
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
 
 <!---
 lurnuku/lurnuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
