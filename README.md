@@ -1,8 +1,8 @@
 Hi 👋 My name is Mirka
-
+======================
 
 I am an aspiring web developer
-
+------------------------------
 
 I have been programming ever since I started college in 2017. I have been introduced to programming through Python, but switched to JavaScript later. In the meantime, I have toyed with Unity, C# and 3D modeling in Blender. Later took the CS50: Introduction to Computer Science at Harvard University, where I have been able to peek under the hood of programming languages. After that I have learned HTML and CSS and finally came across JavaScript which is now my main language. Only when I have discovered React is when the magic started to happen.
 
