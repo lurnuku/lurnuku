@@ -1,14 +1,17 @@
 Hi 👋 My name is Mirka
 ======================
 
-I am an aspiring web developer
+I am a frontend web developer
 ------------------------------
 
-I have been programming ever since I started college in 2017. I have been introduced to programming through Python, but switched to JavaScript later. In the meantime, I have toyed with Unity, C# and 3D modeling in Blender. Later took the CS50: Introduction to Computer Science at Harvard University, where I have been able to peek under the hood of programming languages. After that I have learned HTML and CSS and finally came across JavaScript which is now my main language. Only when I have discovered React is when the magic started to happen.
+I have been programming ever since I started college in 2017. I have been introduced to programming through Python, but switched to JavaScript later. In the meantime, I have toyed with Unity, C# and 3D modeling in Blender. Later took the CS50: Introduction to Computer Science at Harvard University, where I have been able to peek under the hood of programming languages. After that I have learned HTML and CSS and finally came across JavaScript. JavaScript has gotten me confortable to pick a framework, so I have chosen React (I know it is a library). Only after I have discovered React, is when the magic started to happen.
 
 * 🌍  I'm based in Brno, Czechia
-* 🧠  I'm learning React.js
+* 🧠  I'm focusing on React. 
 * ⚡  I have a PhD. in loot (yes I play Escape from Tarkov religiously)
+
+Experience outweighs everything else!
+------------------------------
 
 ### Tech Stack
 
