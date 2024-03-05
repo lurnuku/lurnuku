@@ -10,8 +10,10 @@ I have been programming ever since I started college in 2017. I have been introd
 * 🧠  I'm focusing on React. 
 * ⚡  I have a PhD. in loot (yes I play Escape from Tarkov religiously)
 
-Experience outweighs everything else!
+Experience is king!
 ------------------------------
+I think experience outweighs everything else
+
 
 ### Tech Stack
 
