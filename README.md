@@ -8,11 +8,6 @@ I am a web developer
 * 🧠  I'm focusing on React. 
 * ⚡  I have a PhD. in loot (yes I play Escape from Tarkov religiously)
 
-Experience is king!
-------------------------------
-I think experience outweighs everything else
-
-
 ### Tech Stack
 
 
